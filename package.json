@@ -1,0 +1,14 @@
+{
+  "name": "ECHO",
+  "description": "Twitter clone",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "8.3.6"
+  },
+  "devDependencies": {}
+}
